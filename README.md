@@ -1,3 +1,4 @@
+<img width="820" height="820" alt="QRCode-Screenshot" src="https://github.com/user-attachments/assets/70ad05df-1b39-4b61-8219-8c1ad35f950b" />
 # QR Code Generator (QR Kod Oluşturucu)
 
 Bu proje, C# dili ve Windows Forms arayüzü kullanılarak geliştirilmiş, kullanıcıların girdikleri metin veya bağlantıları (URL) anlık olarak QR koda dönüştürmesini ve bu kodları yerel cihazlarına kaydetmesini sağlayan bir masaüstü uygulamasıdır.
