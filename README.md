@@ -1,4 +1,3 @@
-<img width="820" height="820" alt="QRCode-Screenshot" src="https://github.com/user-attachments/assets/70ad05df-1b39-4b61-8219-8c1ad35f950b" />
 # QR Code Generator (QR Kod Oluşturucu)
 
 Bu proje, C# dili ve Windows Forms arayüzü kullanılarak geliştirilmiş, kullanıcıların girdikleri metin veya bağlantıları (URL) anlık olarak QR koda dönüştürmesini ve bu kodları yerel cihazlarına kaydetmesini sağlayan bir masaüstü uygulamasıdır.
@@ -18,3 +17,6 @@ Bu proje, C# dili ve Windows Forms arayüzü kullanılarak geliştirilmiş, kull
 1. Bu projeyi bilgisayarınıza indirin veya klonlayın:
    ```bash
    git clone [https://github.com/kullaniciadi/QRCodeGenerator.git](https://github.com/kullaniciadi/QRCodeGenerator.git)
+
+<img width="1914" height="1249" alt="QRCodeGenerator-Screen1" src="https://github.com/user-attachments/assets/5f18b302-2f88-4c57-85ab-3ccc31ed52f1" />
+<img width="1914" height="1249" alt="QRCodeGenerator-Screen2" src="https://github.com/user-attachments/assets/405b99d3-6429-48d0-b3e5-ace2e8c6868b" />
