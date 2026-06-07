@@ -18,5 +18,6 @@ Bu proje, C# dili ve Windows Forms arayüzü kullanılarak geliştirilmiş, kull
    ```bash
    git clone [https://github.com/kullaniciadi/QRCodeGenerator.git](https://github.com/kullaniciadi/QRCodeGenerator.git)
 
+
 <img width="1914" height="1249" alt="QRCodeGenerator-Screen1" src="https://github.com/user-attachments/assets/5f18b302-2f88-4c57-85ab-3ccc31ed52f1" />
 <img width="1914" height="1249" alt="QRCodeGenerator-Screen2" src="https://github.com/user-attachments/assets/405b99d3-6429-48d0-b3e5-ace2e8c6868b" />
