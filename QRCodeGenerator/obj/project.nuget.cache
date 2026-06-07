@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLXruZNbxZs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talha\\VS\\repos\\QRCodeGenerator\\QRCodeGenerator\\QRCodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talha\\.nuget\\packages\\qrcoder\\1.8.0\\qrcoder.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
