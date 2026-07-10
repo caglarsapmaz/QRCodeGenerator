@@ -1,3 +1,6 @@
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 # QR Code Generator (QR Kod Oluşturucu)
 
 Bu proje, C# dili ve Windows Forms arayüzü kullanılarak geliştirilmiş, kullanıcıların girdikleri metin veya bağlantıları (URL) anlık olarak QR koda dönüştürmesini ve bu kodları yerel cihazlarına kaydetmesini sağlayan bir masaüstü uygulamasıdır.
